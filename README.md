@@ -1,6 +1,8 @@
 <div align="center">
 
+<div align="center">
 <img width="1024" height="192" alt="Image" src="https://github.com/user-attachments/assets/ccebd614-0e3f-4626-891e-33983b2db714" />
+</div>
 
 
 
@@ -24,7 +26,9 @@
 
 **🎲 La Lotería Mexicana Digital con un Toque Divertido y Atrevido**
 
-<img width="281" height="281" alt="la_mano" src="https://github.com/user-attachments/assets/a7802afb-c821-416c-8064-0c2bab6a86d5" />
+<div align="center">
+<img width="312" height="312" alt="la_mano" src="https://github.com/user-attachments/assets/a7802afb-c821-416c-8064-0c2bab6a86d5" />
+</div>
 
 
 
@@ -44,17 +48,19 @@
 
 <div align="center">
 
-<img width="281" height="281" alt="la_dama" src="https://github.com/user-attachments/assets/2755c849-27cc-4373-8d90-e75b0019d92d" />
+<div align="center">
+<img width="312" height="312" alt="la_dama" src="https://github.com/user-attachments/assets/2755c849-27cc-4373-8d90-e75b0019d92d" />
+</div>
 
 
 
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Pacheco55/LoteGrifa?color=orange)
+![GitHub last commit](https://img.shields.io/github/last-commit/Pacheco55/Loteria-MexiBits?color=orange)
 
-![GitHub issues](https://img.shields.io/github/issues/Pacheco55/LoteGrifa?color=yellow)
+![GitHub issues](https://img.shields.io/github/issues/Pacheco55/Loteria-MexiBits?color=yellow)
 
-![GitHub stars](https://img.shields.io/github/stars/Pacheco55/LoteGrifa?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Pacheco55/Loteria-MexiBits?style=social)
 
 
 
@@ -62,7 +68,9 @@
 
 
 
-<img width="281" height="281" alt="la_campana" src="https://github.com/user-attachments/assets/425011ee-1173-4f81-82bb-cc13b4ac87dd" />
+<div align="center">
+<img width="312" height="312" alt="la_campana" src="https://github.com/user-attachments/assets/425011ee-1173-4f81-82bb-cc13b4ac87dd" />
+</div>
 
 
 
@@ -108,7 +116,9 @@
 
 
 
-<img width="281" height="281" alt="el_paraguas" src="https://github.com/user-attachments/assets/5cc90bde-ffcb-4c9c-a47e-8dc283b45a02" />
+<div align="center">
+<img width="312" height="312" alt="el_paraguas" src="https://github.com/user-attachments/assets/5cc90bde-ffcb-4c9c-a47e-8dc283b45a02" />
+</div>
 
 
 
@@ -118,7 +128,9 @@
 
 
 
-<img width="281" height="281" alt="el_valiente" src="https://github.com/user-attachments/assets/bc8b574b-8fc5-49fa-b5ab-be529af8f061" />
+<div align="center">
+<img width="312" height="312" alt="el_valiente" src="https://github.com/user-attachments/assets/bc8b574b-8fc5-49fa-b5ab-be529af8f061" />
+</div>
 
 
 
@@ -146,7 +158,9 @@
 
 ### 🔊 **Cantada Automática con Audio**
 
-<img width="281" height="281" alt="la_calavera" src="https://github.com/user-attachments/assets/d8948834-8a21-49d6-9dd1-3aacb9319bf9" />
+<div align="center">
+<img width="312" height="312" alt="la_calavera" src="https://github.com/user-attachments/assets/d8948834-8a21-49d6-9dd1-3aacb9319bf9" />
+</div>
 
 
 
@@ -160,7 +174,9 @@
 
 ### 🎨 **Interfaz Intuitiva y Moderna**
 
-<img width="281" height="281" alt="el_corazon" src="https://github.com/user-attachments/assets/d5df8c8c-4d05-443e-acfa-ba64e67455ff" />
+<div align="center">
+<img width="312" height="312" alt="el_corazon" src="https://github.com/user-attachments/assets/d5df8c8c-4d05-443e-acfa-ba64e67455ff" />
+</div>
 
 
 
@@ -174,7 +190,9 @@
 
 ### ⚙️ **Ligero y Eficiente**
 
-<img width="281" height="281" alt="la_pera" src="https://github.com/user-attachments/assets/2ba8113f-a7a8-4d16-a705-6b82ebb8ac0d" />
+<div align="center">
+<img width="312" height="312" alt="la_pera" src="https://github.com/user-attachments/assets/2ba8113f-a7a8-4d16-a705-6b82ebb8ac0d" />
+</div>
 
 
 
@@ -202,7 +220,9 @@
 
 
 
-<img width="281" height="281" alt="la_muerte" src="https://github.com/user-attachments/assets/27e5971c-64ea-4991-b5d6-90d61912b076" />
+<div align="center">
+<img width="312" height="312" alt="la_muerte" src="https://github.com/user-attachments/assets/27e5971c-64ea-4991-b5d6-90d61912b076" />
+</div>
 
 
 
@@ -350,7 +370,7 @@ Así se ve el juego cuando las cartas están siendo cantadas.
 
 
 
-**[📥 Descargar Loteria MEXIBITS v1.0](https://github.com/Pacheco55/LoteriaMEXIBITS/releases/latest)**
+**[📥 Descargar Loteria MEXIBITS v1.0](https://github.com/Pacheco55/Loteria-MexiBits/releases/latest)**
 
 
 
@@ -368,7 +388,9 @@ Así se ve el juego cuando las cartas están siendo cantadas.
 
 <div align="center">
 
-<img width="604" height="345" alt="la_rosa" src="https://github.com/user-attachments/assets/81207ad6-45ed-4d79-9535-a54d57eb51c0" />
+<div align="center">
+<img width="672" height="384" alt="la_rosa" src="https://github.com/user-attachments/assets/81207ad6-45ed-4d79-9535-a54d57eb51c0" />
+</div>
 
 
 
@@ -376,7 +398,9 @@ Así se ve el juego cuando las cartas están siendo cantadas.
 
 
 
-<img width="604" height="345" alt="la_botella" src="https://github.com/user-attachments/assets/d6e027e0-94ba-4004-93f0-81718842bcbf" />
+<div align="center">
+<img width="672" height="384" alt="la_botella" src="https://github.com/user-attachments/assets/d6e027e0-94ba-4004-93f0-81718842bcbf" />
+</div>
 
 
 
@@ -386,13 +410,14 @@ Así se ve el juego cuando las cartas están siendo cantadas.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelbits_studios/)
 
-[![Twitter](https.img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pixelbitstud)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-pacheco-3b7927262/)
 
 
 
-<img width="604" height="345" alt="la_bota" src="https://github.com/user-attachments/assets/e4691b64-a17d-452f-8a9e-c5ff08bdb4c0" />
+<div align="center">
+<img width="672" height="384" alt="la_bota" src="https://github.com/user-attachments/assets/e4691b64-a17d-452f-8a9e-c5ff08bdb4c0" />
+</div>
 
 
 
@@ -424,7 +449,9 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para detalles.
 
 <div align="center">
 
-<img width="604" height="345" alt="el_diablito" src="https://github.com/user-attachments/assets/34b7a7e4-65a8-4351-9e9d-fbc13f2b1b7b" />
+<div align="center">
+<img width="672" height="384" alt="el_diablito" src="https://github.com/user-attachments/assets/34b7a7e4-65a8-4351-9e9d-fbc13f2b1b7b" />
+</div>
 
 
 
@@ -440,7 +467,7 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para detalles.
 
 
 
-[![Repository Views](https://komarev.com/ghpvc/?username=Pacheco55-LoteGrifa&color=2C7873&style=flat-square&label=Descargas)](https://github.com/Pacheco55/LoteGrifa)
+[![Repository Views](https://komarev.com/ghpvc/?username=Pacheco55-LoteGrifa&color=2C7873&style=flat-square&label=Patriotas_que_visitaron)](https://github.com/Pacheco55/Loteria-MexiBits)
 
 
 
@@ -450,7 +477,9 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para detalles.
 
 
 
-<img width="604" height="345" alt="la_corona" src="https://github.com/user-attachments/assets/30eee633-b5e9-4030-8421-b1391628ddd5" />
+<div align="center">
+<img width="672" height="384" alt="la_corona" src="https://github.com/user-attachments/assets/30eee633-b5e9-4030-8421-b1391628ddd5" />
+</div>
 
 
 
